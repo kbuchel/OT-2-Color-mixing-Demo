@@ -34,7 +34,7 @@ The platform's components are:
 
 The platform measures the light intensity of a respective sample with examples shown below:
 
-# Color matching
+## Color matching:
 
 A colour matching example using Bayesian Optimization (using the Honegumi pattern) is demonstrated below. The corresponding colab can be found [here](https://colab.research.google.com/drive/1AecdjEBIGNtFHE7aXI7hqhuzyVWhrVEk#scrollTo=8-2KctULB6vF). 
 
