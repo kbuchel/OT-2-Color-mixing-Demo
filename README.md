@@ -24,7 +24,7 @@ The following diagram outlines dataflow:
 
 ## Getting Started
 
-**Note: ** If this is your first time accessing the OT-2 via SSH, you will need to connect the robot to the laptop and use the wired IP for connecting.
+**Note:** If this is your first time accessing the OT-2 via SSH, you will need to connect the robot to the laptop and use the wired IP for connecting.
 
 1. Place the components in their respective locations (see the figure below as reference)
 2. Power on the OT-2 and connect it to the router via LAN
