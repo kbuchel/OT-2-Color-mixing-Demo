@@ -33,7 +33,7 @@ The platform's components are:
 
 ## Data
 
-![Light Intensity Data from AS 7341 Spectral Sensor](images/Without.pdf)
+![Light Intensity Data from AS 7341 Spectral Sensor](images/Without.png)
 
 **Note:** student_id's not found in MongoDB or experiments requesting >= 300 μl will not be submitted to the OT-2 for execution.
 
