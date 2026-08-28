@@ -37,8 +37,6 @@ The platform's components are:
 
 **Note:** student_id's not found in MongoDB or experiments requesting >= 300 μl will not be submitted to the OT-2 for execution.
 
-The platform measures the light intensity of a respective sample with examples shown below:
-
 ## Color matching
 
 A colour matching example using Bayesian Optimization (using the Honegumi pattern) is demonstrated below. The corresponding Colab can be found [here](https://colab.research.google.com/drive/1-E5FCywyZ9ZaMQF9BYOz4gHCYF9lMWDV?usp=sharing). 
